@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I love being minimal and creative.
 baseurl: "/gaya" # the subpath of your site, e.g. /blog/
 # url: "http://gayan.me" # the base hostname & protocol for your site
-url: "http://gfchai01.github.io"
+url: "http://wanrqur.com"
 logourl: /assets/images/logo.png # Site logo
 author: "Tom Warlker"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
