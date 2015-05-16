@@ -31,7 +31,7 @@ theme:
   show_author_info: true
 
   # Disqus comments manager - gfchai01
-  # disqus_shortname: 
+  disqus_shortname:
 
   # Google Analytics/Webmaster key, leave blank to ignore
   google_analytics_key: 
