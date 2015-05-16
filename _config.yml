@@ -30,8 +30,8 @@ theme:
   # Show author picure, name and social links on post footer
   show_author_info: true
 
-  # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
+  # Disqus comments manager - gfchai01
+  disqus_shortname: wanrqur
 
   # Google Analytics/Webmaster key, leave blank to ignore
   google_analytics_key: 
